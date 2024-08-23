@@ -4,5 +4,4 @@ google
 Gunicorn
 pygments
 scikit-learn
-pygments
-
+pandas
