@@ -48,7 +48,7 @@ def signup():
 
 @app.route('/')
 def home():
-    return render_template('Homepage.html')
+    return render_template('homepage.html')
 
 
 @app.route('/prediction', methods=['GET', 'POST'])
