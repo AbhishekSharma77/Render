@@ -3,3 +3,6 @@ google.generativeai
 google
 Gunicorn
 pygments
+scikit-learn
+pygments
+
